@@ -6,6 +6,6 @@ ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.mi
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <History>False|2021-07-28T03:09:58.6464932Z;False|2021-07-28T00:09:43.5087952-03:00;</History>
+    <History>True|2021-08-24T17:29:05.5430490Z;False|2021-08-24T14:26:08.9667213-03:00;False|2021-08-24T14:25:06.7831114-03:00;False|2021-08-24T14:25:03.8694062-03:00;False|2021-08-24T14:17:10.9371888-03:00;False|2021-08-24T14:17:00.2861359-03:00;False|2021-07-28T00:09:58.6464932-03:00;False|2021-07-28T00:09:43.5087952-03:00;</History>
   </PropertyGroup>
 </Project>
